@@ -1,4 +1,4 @@
 require './logger' 
 
 Logger.sey_mi
-Logger.instance.log_mi 'Hi!'
+Logger.instance.log_mi 'Hello!'
